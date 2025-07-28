@@ -18,6 +18,7 @@ O relatório simula um ambiente corporativo. O objetivo principal foi identifica
 ## 📥 Acesse o Relatório
 
 > 📄 [Clique aqui para visualizar o PDF completo](https://github.com/Fellipe-Syllos/relatorio_tecnico_cyber_seguranca_kenseiCyberSec_e_VaiNaWeb/blob/main/Relat%C3%B3rio%20T%C3%A9cnico.pdf)
+(Baixe o relatório para ver o conteúdo completo)
 
 ## 💡 Observações
 
